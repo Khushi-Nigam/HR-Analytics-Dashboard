@@ -20,7 +20,7 @@ The dashboard includes:
 
 - `HR_Dashboard.pbix` (Power BI file)
 - `Screenshot 2025-06-02 131321.png` (Dashboard image)
-- `data.csv` (Sample dataset - anonymized)
+- `hr-data.xlsx` (Dataset)
 - `README.md` (This file)
 
 ## 🧰 Tools Used
