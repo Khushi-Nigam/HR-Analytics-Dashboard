@@ -27,7 +27,6 @@ The dashboard includes:
 
 - Power BI
 - Excel
-- Python (if used for preprocessing)
 
 ## 📈 Insights
 
