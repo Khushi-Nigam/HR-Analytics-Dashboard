@@ -3,7 +3,8 @@
 
 This project is a Human Resource Analytics Dashboard created using Power BI / Excel. It visualizes key HR metrics to help understand employee distribution, demographics, salary, and more.
 
-![Screenshot 2025-06-02 131321](https://github.com/user-attachments/assets/647d7981-bf59-4c06-a7b4-d2a1f3588704)
+![image](https://github.com/user-attachments/assets/94d67603-8105-40a3-a2c6-4186467ff1d0)
+
 
 ## 🔍 Overview
 
